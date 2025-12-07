@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @Alex Oduor
-- I’m a software developer
-- Currently focussing on building backend systems.
-- I’m looking to collaborate on tech projects.
-- 📫 How to reach me: email alexoduor183@gmail.com
+# Hi, I’m Alex Oduor 👋
 
+- 💻 I’m a **Software Developer**  
+- 🔧 Currently focusing on building **backend systems**  
+- 🤝 I’m looking to **collaborate on tech projects**  
+- 📫 **Reach me at:** [alexoduor183@gmail.com](mailto:alexoduor183@gmail.com)
 
-<!---
-Alex-Oduor/Alex-Oduor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Skills & Interests
+- Backend development (Node.js, Python, Java, etc.)
+- APIs & Microservices
+- Databases (SQL & NoSQL)
+- Cloud & DevOps basics
+
+---
+
+### Let's Connect!
+I’m always open to exciting projects, discussions, or collaboration opportunities. Feel free to reach out! 🚀
+
